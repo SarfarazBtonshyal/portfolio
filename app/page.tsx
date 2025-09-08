@@ -269,7 +269,7 @@ export default function Home() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.3, duration: 0.6 }}
               >
-                Sarfaraz Btonshyal
+                Sarfaraz B Tonshyal
               </motion.h1>
               
               <motion.h2 
@@ -380,7 +380,7 @@ export default function Home() {
                       <div>
                         <span className="text-green-600">name</span>
                         <span className="text-gray-500">: </span>
-                        <span className="text-amber-600">'Sarfaraz Btonshyal'</span>
+                        <span className="text-amber-600">'Sarfaraz B Tonshyal'</span>
                         <span className="text-gray-400">,</span>
                       </div>
                       <div>
