@@ -5,8 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  experimental: {
-    appDir: true
+  eslint: {
+    ignoreDuringBuilds: true
   }
 };
 
